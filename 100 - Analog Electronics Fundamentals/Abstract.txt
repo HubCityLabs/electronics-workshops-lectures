@@ -1,0 +1,63 @@
+101 Theory:
+-Visualizing Voltage, Resistance, Current
+-Ohm's Law
+-Resistor Values Reading (Handout color codes map)
+-DC
+-Further Reading
+
+101 Labs:
+-Breadboard intro
+-Build Simple Circuit (5V, resistor, LED)
+
+-============================================================-
+
+102 Theory:
+-LEDs/Diodes
+-Capacitors
+-Inductors
+-AC
+
+102 Labs:
+-Oscilloscope Intro
+-lOWpass and highpass filters
+
+-============================================================-
+
+103 Theory:
+-Bipolar Transistors
+-Analog ICs (555 Timer)
+
+103 Labs:
+-555 Timer & Speaker Circuit
+-555 Timer & LED Circuit
+
+-============================================================-
+
+104 Theory:
+-FET/JFET Transistors
+-Op-Amps
+-Drivers (Darlington)
+
+104 Lab:
+-Transistor Amplifiers
+-Opamp Amplifiers
+-Driving DC motor
+
+-============================================================-
+
+105 Theory:
+-Rectifiers
+-Voltage Regulators
+
+105 Lab:
+-Rectifier Circuit
+-Voltage Regulator Circuit
+
+-============================================================-
+
+106 Theory
+-EagleCAD Circuits
+
+106 Lab:
+-Circuit Design Exercise in EagleCAD
+-Creating PCBs
