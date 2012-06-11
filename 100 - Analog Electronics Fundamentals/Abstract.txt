@@ -12,14 +12,22 @@
 -============================================================-
 
 102 Theory:
--LEDs/Diodes
 -Capacitors
 -Inductors
+-LEDs/Diodes
+-Breadboards
 -AC
 
 102 Labs:
 -Oscilloscope Intro
 -lOWpass and highpass filters
+
+Parts: 
+10 Breadboards 		http://www.dipmicro.com/store/ZY-101
+10 Capacitors 		http://www.dipmicro.com/store/C9E47-16-105
+10 9v Battery Clips 	http://www.dipmicro.com/store/BH9V
+10 Relays 		http://www.dipmicro.com/store/AZ952-1CH-5DE
+10 Pushbuttons 		http://www.dipmicro.com/store/TL1105BF250Q
 
 -============================================================-
 
