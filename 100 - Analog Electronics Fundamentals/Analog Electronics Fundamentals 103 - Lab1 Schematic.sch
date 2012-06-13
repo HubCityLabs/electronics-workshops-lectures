@@ -4830,7 +4830,7 @@ Source: www.kingbright.com</description>
 </classes>
 <parts>
 <part name="9V" library="battery" deviceset="AB9V" device=""/>
-<part name="R1" library="resistor" deviceset="R-US_" device="0204/7" value="10k"/>
+<part name="R1" library="resistor" deviceset="R-US_" device="0204/7" value="3.2k"/>
 <part name="R2" library="resistor" deviceset="R-US_" device="0204/7" value="1k"/>
 <part name="GND1" library="supply1" deviceset="GND" device=""/>
 <part name="GND2" library="supply1" deviceset="GND" device=""/>
