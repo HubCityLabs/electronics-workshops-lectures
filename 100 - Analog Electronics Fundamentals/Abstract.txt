@@ -34,6 +34,7 @@ Parts:
 103 Theory:
 -Bipolar Transistors
 -Analog ICs (555 Timer)
+-Drivers (Darlington)
 
 103 Labs:
 -555 Timer & Speaker Circuit
@@ -44,28 +45,24 @@ Parts:
 104 Theory:
 -FET/JFET Transistors
 -Op-Amps
--Drivers (Darlington)
 
 104 Lab:
 -Transistor Amplifiers
 -Opamp Amplifiers
--Driving DC motor
 
 -============================================================-
 
 105 Theory:
--Rectifiers
--Voltage Regulators
+-EagleCAD
 
 105 Lab:
--Rectifier Circuit
--Voltage Regulator Circuit
+-Circuit Design Exercise in EagleCAD
 
 -============================================================-
 
 106 Theory
--EagleCAD Circuits
+-Variable Power Supply
 
 106 Lab:
--Circuit Design Exercise in EagleCAD
+
 -Creating PCBs
