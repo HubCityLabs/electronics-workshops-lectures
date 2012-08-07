@@ -64,5 +64,16 @@ Parts:
 -Variable Power Supply
 
 106 Lab:
-
 -Creating PCBs
+
+Materials:
+-Fine Steel Wool
+-Muriatic Acid (hydrochloric acid)
+-Hydrogen Peroxide (3%)
+-Acetone
+-Hard toothbrush
+-Hot Iron
+-Glass Container
+
+Recipe:
+-2parts peroxide for 1 part 1cid
