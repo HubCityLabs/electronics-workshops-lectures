@@ -74,6 +74,7 @@ Materials:
 -Hard toothbrush
 -Hot Iron
 -Glass Container
+-Drill Bits
 
 Recipe:
 -2parts peroxide for 1 part 1cid
