@@ -1,0 +1,31 @@
+201.1 THEORY
+-Logic States
+-Logic Gates and Truth Tables
+--AND & NAND
+--OR & NOR
+--XOR & XNOR
+
+202.1 THEORY
+-Binary Code
+-BCD code
+-Multiplexers
+
+203.1 THEORY
+-Flip Flops
+-Debouncing
+-Binary System
+
+
+204.1 THEORY
+-Clock Signals
+-Shift Registers
+-TRI-STATE Logic
+
+205.1 THEORY
+-Latches
+-Fifos
+
+206.1 LAB PROJECT
+
+
+
